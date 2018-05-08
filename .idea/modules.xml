@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://D:/MyCollactActivity2/MyCollactActivity2.iml" filepath="D:/MyCollactActivity2/MyCollactActivity2.iml" />
-      <module fileurl="file://C:\Users\ACER\Documents\GitHub\MyCollactActivity2\MyCollactActivity2.iml" filepath="C:\Users\ACER\Documents\GitHub\MyCollactActivity2\MyCollactActivity2.iml" />
       <module fileurl="file://D:/MyCollactActivity2/app/app.iml" filepath="D:/MyCollactActivity2/app/app.iml" />
-      <module fileurl="file://C:\Users\ACER\Documents\GitHub\MyCollactActivity2\app\app.iml" filepath="C:\Users\ACER\Documents\GitHub\MyCollactActivity2\app\app.iml" />
     </modules>
   </component>
 </project>

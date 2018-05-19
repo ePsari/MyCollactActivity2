@@ -12,15 +12,11 @@ public class SplashScreen extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //menghilangkan ActionBar
+        this.requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_splash_screen);
 
-        TextView tvSplash;
 
-            //menghilangkan ActionBar
-            this.requestWindowFeature(Window.FEATURE_NO_TITLE);
-            setContentView(R.layout.activity_splash_screen);
-
-            tvSplash = (TextView) findViewById(R.id.tvSplash);
 
 
             final Handler handler = new Handler();
